@@ -3,11 +3,11 @@
 .theme-dark,
 .theme-light,
 :root {
-    --background-primary: #292841 !important;
-    --background-secondary: #242338 !important;
-    --background-secondary-alt: #3c3a5e !important;
+    --background-primary: #000000 !important;
+    --background-secondary: #000000 !important;
+    --background-secondary-alt: #e67a27 !important;
     --background-tertiary: #1c1b29 !important;
-    --background-accent: #413f66 !important;
+    --background-accent: #e67a27 !important;
     --background-floating: #15141e !important;
     --offline-color: #444444 !important;
 }
